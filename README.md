@@ -110,5 +110,5 @@ logger.reporter.additivity = false
 logger.reporter.appenderRef.APIM_METRICS_APPENDER.ref = APIM_METRICS_APPENDER
 ```
 
-To avoid duplication, remove this if you only want logs in the trace log.
+To avoid duplication, remove this if you only want logs in the trace log. (enabled by default))
 
